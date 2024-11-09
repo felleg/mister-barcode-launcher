@@ -27,21 +27,21 @@ echo "
 # Downloading the latest version of the barcode_launcher code
 ################################################################
 "
- wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode_launcher/refs/heads/main/barcode_launcher.py
+ wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/barcode_launcher.py
 
 echo "
 ################################################################
 # Downloading the latest version of the barcode database
 ################################################################
 "
- wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode_launcher/refs/heads/main/barcode_database.csv
+ wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/barcode_database.csv
 
 echo "
 ################################################################
 # Creating a script ($UPDATE_DATABASE_SCRIPT)
 ################################################################
 "
-echo " wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode_launcher/refs/heads/main/barcode_database.csv" > $UPDATE_DATABASE_SCRIPT
+echo " wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/barcode_database.csv" > $UPDATE_DATABASE_SCRIPT
 
 echo "
 ################################################################
