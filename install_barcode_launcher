@@ -1,9 +1,9 @@
 
 
-BARCODE_LAUNCHER_DIR=/media/fat/Scripts/barcode-launcher
+BARCODE_LAUNCHER_DIR=/media/fat/Scripts/barcode_launcher
 UPDATE_DATABASE_SCRIPT=/media/fat/Scripts/update_barcode_database.sh
 USER_STARTUP_SCRIPT=/media/fat/linux/user-startup.sh
-UNINSTALL_SCRIPT=/media/fat/Scripts/uninstall-barcode-launcher.sh
+UNINSTALL_SCRIPT=/media/fat/Scripts/uninstall_barcode_launcher.sh
 
 echo "
 ################################################################
@@ -16,7 +16,7 @@ $UNINSTALL_SCRIPT
 
 echo "
 ################################################################
-# Installing MiSTer Batch Control (mbc) in /media/fat/Scripts/barcode-launcher
+# Installing MiSTer Batch Control (mbc) in /media/fat/Scripts/barcode_launcher
 # This program is required to tell the MiSTer which game to launch.
 ################################################################
 "
@@ -24,34 +24,34 @@ echo "
 
 echo "
 ################################################################
-# Downloading the latest version of the barcode-launcher code
+# Downloading the latest version of the barcode_launcher code
 ################################################################
 "
- wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/barcode_launcher.py
+ wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode_launcher/refs/heads/main/barcode_launcher.py
 
 echo "
 ################################################################
 # Downloading the latest version of the barcode database
 ################################################################
 "
- wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/barcode-database.csv
+ wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode_launcher/refs/heads/main/barcode_database.csv
 
 echo "
 ################################################################
 # Creating a script ($UPDATE_DATABASE_SCRIPT)
 ################################################################
 "
-echo " wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/barcode-database.csv" > $UPDATE_DATABASE_SCRIPT
+echo " wget -N -P $BARCODE_LAUNCHER_DIR https://raw.githubusercontent.com/felleg/mister-barcode_launcher/refs/heads/main/barcode_database.csv" > $UPDATE_DATABASE_SCRIPT
 
 echo "
 ################################################################
-# Adding barcode-launcher as a startup script
+# Adding barcode_launcher as a startup script
 ################################################################
 "
 
 if ! grep -q "$BARCODE_LAUNCHER_DIR/barcode_launcher.py" $USER_STARTUP_SCRIPT; then
   cat <<EOF >> $USER_STARTUP_SCRIPT
-[[ -e $BARCODE_LAUNCHER_DIR/barcode_launcher.py ]] && tmux new-session -d -s barcode-launcher 'for rawhid in {0..3}; do python3 $BARCODE_LAUNCHER_DIR/barcode_launcher.py $BARCODE_LAUNCHER_DIR/barcode-database.csv \$rawhid & done; wait'
+[[ -e $BARCODE_LAUNCHER_DIR/barcode_launcher.py ]] && tmux new-session -d -s barcode_launcher 'for rawhid in {0..3}; do python3 $BARCODE_LAUNCHER_DIR/barcode_launcher.py $BARCODE_LAUNCHER_DIR/barcode_database.csv \$rawhid & done; wait'
 EOF
 fi
 
@@ -61,8 +61,8 @@ echo "
 ################################################################
 "
 cat <<EOF > $UNINSTALL_SCRIPT
-# Removing barcode-launcher from startup scripts
-sed -i "/barcode-launcher/d" $USER_STARTUP_SCRIPT
+# Removing barcode_launcher from startup scripts
+sed -i "/barcode_launcher/d" $USER_STARTUP_SCRIPT
 
 # Remove $BARCODE_LAUNCHER_DIR
 rm -r $BARCODE_LAUNCHER_DIR
@@ -79,6 +79,6 @@ echo "
 #
 # Barcodes are available at https://felx.cc/barcodes
 #
-# Enjoy barcode-launcher :)
+# Enjoy barcode_launcher :)
 ################################################################
 "
