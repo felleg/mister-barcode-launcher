@@ -1,3 +1,7 @@
 # Vim swap files
 **/*.swp
 **/*.swo
+
+catalog/gamelist.pdf
+catalog/.gamelist.md
+catalog/barcodes
