@@ -59,25 +59,25 @@ Data East,GENESIS,atomic-runner.jpg,13252014046,1 US - A-F/Atomic Runner (USA).m
 Data East,NEOGEO,spin-master.png,156000000004,./1 World A-Z/Spin Master (spinmast).neo,,1993,
 Data East,GENESIS,midnight-resistance.jpg,10086011296,./1 US - G-P/Midnight Resistance (USA).md,,1991,x
 Data East,ARCADE,burger-time.png,410000000007,Burger Time (Set 1).mra,BurgerTime,1982,
-Data East,NES,b-wings.jpg,4961082610012,./2 Japan - A-Z/Japan A-D/B-Wings (Japan).nes,,1986,x
+Data East,NES,b-wings.jpg,4961082610012,./2 Japan/Japan A-D/B-Wings (Japan).nes,,1986,x
 Data East,NEOGEO,windjammers.jpg,420000000006,./1 World A-Z/Windjammers (wjammers).neo,,1994,
 Data East,NEOGEO,magical-drop-iii.jpg,430000000005,./1 World A-Z/Magical Drop III (magdrop3).neo,,1996,
 Data East,GENESIS,vapor-trail.jpg,720238101002,./1 US - Q-Z/Vapor Trail (USA).md,,1991,x
 Data East,SNES,super-road-blaster.png,440000000004,./SuperRoadBlaster/SuperRoadBlaster.sfc,Super Road Blaster (Modern Port),1985,
 Data East,MEGACD,panic.jpg,13252016002,./Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].cue,Panic!,1993,
 HAL Laboratories,NES,airfortress.jpg,40458036077,./1 US - A-F/Air Fortress (USA).nes,,1987,x
-HAL Laboratories,NES,eggerland.jpg,4988610101118,./2 Japan - A-Z/Japan E-J/Eggerland - Meikyuu no Fukkatsu (Japan).nes,,1987,
+HAL Laboratories,NES,eggerland.jpg,4988610101118,./2 Japan/Japan E-J/Eggerland - Meikyuu no Fukkatsu (Japan).nes,,1987,
 HAL Laboratories,NES,lolo.jpg,40458011050,./1 US - A-F/Adventures of Lolo (USA).nes,,1989,
 HAL Laboratories,NES,lolo2.jpg,40458011081,./1 US - A-F/Adventures of Lolo 2 (USA).nes,,1990,
 HAL Laboratories,NES,lolo3.jpg,40458033120,./1 US - A-F/Adventures of Lolo 3 (USA).nes,,1990,
-HAL Laboratories,NES,lolo-ii.jpg,660000000006,./2 Japan - A-Z/Japan A-D/Adventures of Lolo II (Japan).nes,,1990,
-HAL Laboratories,NES,lolo-i.jpg,670000000005,./2 Japan - A-Z/Japan A-D/Adventures of Lolo (Japan).nes,,1990,
-HAL Laboratories,NES,newghostbusters-ii.jpg,680000000004,./2 Japan - A-Z/Japan K-O/New Ghostbusters II (Japan).nes,,1990,
+HAL Laboratories,NES,lolo-ii.jpg,660000000006,./2 Japan/Japan A-D/Adventures of Lolo II (Japan).nes,,1990,
+HAL Laboratories,NES,lolo-i.jpg,670000000005,./2 Japan/Japan A-D/Adventures of Lolo (Japan).nes,,1990,
+HAL Laboratories,NES,newghostbusters-ii.jpg,680000000004,./2 Japan/Japan K-O/New Ghostbusters II (Japan).nes,,1990,
 HAL Laboratories,GAMEBOY.COL,pokemonpinball.jpg,45496730901,./1 Game Boy Color/1 GBC US - M-Z/Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced).gbc,Pokemon Pinball,1999,
 HAL Laboratories,NES,mother.png,690000000003,./4 Hacks/Hacks K-O/Mother 25th Anniversary Edition (EarthBound Proto Hack_DragonDePlatino) v1.11.nes,Mother 25th Anniversary Edition,1989,
 HAL Laboratories,SNES,earthbound.jpg,45496830434,./1 US - A-E/EarthBound (USA).sfc,,1994,
 HAL Laboratories,GBA,mother3.jpg,710000000008,./4 Translations/Mother 3 (J) T+Eng v1.2.gba,Mother 3 (English),2006,
-Hudson Soft,NES,challenger.jpg,4905505200312,./2 Japan - A-Z/Japan A-D/Challenger (Japan).nes,,1985,
+Hudson Soft,NES,challenger.jpg,4905505200312,./2 Japan/Japan A-D/Challenger (Japan).nes,,1985,
 Hudson Soft,NES,star-soldier.jpg,40886782799,./1 US - R-Z/Star Soldier (USA).nes,,1986,x
 Hudson Soft,TGFX16,final-soldier.jpg,4988607200473,./2 PC Engine - A-M/Final Soldier (Japan).pce,,1991,x
 Hudson Soft,TGFX16,soldier-blade.jpg,4988607200596,./1 TurboGrafx-16 - A-Z/Soldier Blade (USA).pce,,1992,x
@@ -101,7 +101,7 @@ Konami,ARCADE,track-and-field.jpg,163000000002,./Track & Field.mra,,1983,
 Konami,ARCADE,time-pilot.png,310000000000,./Time Pilot.mra,,1982,x
 Konami,ARCADE,shaolin.png,161000000008,./_alternatives/_Kicker/shao-lin's road (set 1).mra,Shao-lin's Road,1985,
 Konami,ARCADE,time-pilot84.png,320000000009,./Time Pilot '84 (Set 1).mra,,1984,x
-Konami,NES,crisis-force.png,4988602569186,./2 Japan - A-Z/Japan A-D/Crisis Force (Japan).nes,,1991,x
+Konami,NES,crisis-force.png,4988602569186,./2 Japan/Japan A-D/Crisis Force (Japan).nes,,1991,x
 Konami,TGFX16-CD,c-rondo-blood.jpg,4988602607291,"./Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).cue",Castlavania Rondo of Blood,1993,
 Konami,ARCADE,scramble.png,330000000008,./Scramble.mra,,1981,x
 Konami,ARCADE,super-cobra.png,340000000007,./Super Cobra.mra,,1981,x
@@ -119,20 +119,20 @@ Konami,NES,super-c.jpg,83717240204,./1 US - R-Z/Super C (USA).nes,,1990,x
 Konami,SNES,contra-iii.jpg,83717150039,./1 US - A-E/Contra III - The Alien Wars (USA).sfc,,1992,x
 Konami,PSX,salamander-dx-pack.jpg,4988602036213,./Salamander Deluxe Pack Plus (J) [SLPM-86037].cue,Salamander Deluxe Pack Plus,1997,x
 Konami,PSX,sexy-parodius.jpg,4988602029970,./Sexy Parodius (J) [SLPM-86009].cue,Sexy Parodius,1996,x
-Konami,NES,quarth.jpg,4988602558302,./2 Japan - A-Z/Japan P-S/Quarth (Japan).nes,,1990,x
+Konami,NES,quarth.jpg,4988602558302,./2 Japan/Japan P-S/Quarth (Japan).nes,,1990,x
 Konami,ARCADE,rush-n-attack.png,380000000003,./Green Beret.mra,Rush ‘n Attack,1985,
-Konami,NES,twinbee3.jpg,4988602552331,./2 Japan - A-Z/Japan T-Z/TwinBee 3 - Poko Poko Daimaou (Japan).nes,,1989,x
+Konami,NES,twinbee3.jpg,4988602552331,./2 Japan/Japan T-Z/TwinBee 3 - Poko Poko Daimaou (Japan).nes,,1989,x
 Konami,SNES,pop-n-twinbee.jpg,83717145073,./2 Japan - A-Z/Japan P-R/Pop'n TwinBee (Japan).sfc,,1993,x
 Konami,NES,yume-penguin.png,4988602564648,./4 Translations/English L-Z/Yume Penguin Monogatari (J) [T+Eng1.01_Vice].nes,Yume Penguin Monogatari,1991,
 Konami,ARCADE,kicker.png,390000000002,./Kicker.mra,,1985,
-Konami,NES,circus-charlie.jpg,4988603000206,./2 Japan - A-Z/Japan A-D/Circus Charlie (Japan).nes,,1986,
+Konami,NES,circus-charlie.jpg,4988603000206,./2 Japan/Japan A-D/Circus Charlie (Japan).nes,,1986,
 Konami,NES,gyruss-nes.jpg,83717120056,./1 US - G-Q/Gyruss (USA).nes,,1988,x
 Konami,SNES,axelay.jpg,83717150053,./1 US - A-E/Axelay (USA).sfc,,1992,x
 Konami,SNES,super-castlevania.jpg,83717150015,./1 US - S/Super Castlevania IV (USA).sfc,,1991,
 Konami,SNES,tmnt4.jpg,83717150046,./1 US - T-Z/./1 US - T-Z/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sfc,,1992,
 Konami,PSX,bbs.jpg,4988602748161,./Bishi Bashi Special (E) [SLES-02537].cue,Bishi Bashi Special,2000,
 Konami,PSX,bbs3.png,134000000002,./Bishi Bashi Special 3 (Japan) [SLPM-86539].cue,Bishi Bashi Special 3: Step Champ,2000,
-Konami,NES,boku-dracula-kun.jpg,4988602558296,./2 Japan - A-Z/Japan A-D/Akumajou Special - Boku Dracula-kun (Japan).nes,,1990,
+Konami,NES,boku-dracula-kun.jpg,4988602558296,./2 Japan/Japan A-D/Akumajou Special - Boku Dracula-kun (Japan).nes,,1990,
 Konami,MEGACD,snatcher.jpg,83717165026,./Snatcher (Sega CD) (U)-redump.cue,Snatcher,1994,
 Konami,ARCADE,mikie.png,135000000009,./Mikie.mra,,1984,
 Konami,TGFX16-CD,force-gear.png,141000000000,./Force Gear (from Tokimeki Memorial).cue,,1994,x
@@ -173,7 +173,7 @@ Namco,NES,star-wars-fc.jpg,4907892000360,4 Translations/English L-Z/Star Wars (J
 Namco,TGFX16,splatterhouse-pce.jpg,4907892031111,2 PC Engine - N-Z/Splatterhouse (Japan).pce,,1990,
 Namco,GENESIS,splatterhouse2.jpg,722674020138,1 US - Q-Z/Splatterhouse 2 (USA).md,,1992,
 Namco,GENESIS,splatterhouse3.jpg,722674020206,1 US - Q-Z/Splatterhouse 3 (USA).md,,1993,
-Namco,NES,splatterhouse-graffiti.jpg,4907892000643,2 Japan - A-Z/Japan P-S/Splatterhouse - Wanpaku Graffiti (Japan).nes,,1989,
+Namco,NES,splatterhouse-graffiti.jpg,4907892000643,2 Japan/Japan P-S/Splatterhouse - Wanpaku Graffiti (Japan).nes,,1989,
 Namco,GENESIS,phelios.jpg,722674020015,1 US - G-P/Phelios (USA).md,,1990,x
 Namco,ARCADE,grobda.png,150000000002,"Grobda (W, New Ver.).mra",,1984,x
 Namco,PSX,mr-driller.jpg,722674020992,Mr. Driller.cue,,2000,
@@ -181,7 +181,7 @@ Namco,PSX,r4-ridge-racer.jpg,722674020848,R4\ -\ Ridge\ Racer\ Type\ 4\ \(USA\).
 Namco,GENESIS,dangerous-seed.jpg,4907892033047,./2 Japan - A-Z/Japan - A-O/Dangerous Seed (Japan).md,,1990,x
 Natsume,NES,abadox.jpg,32244040887,1 US - A-F/Abadox - The Deadly Inner War (USA).nes,,1989,x
 Natsume,NES,scat.jpg,719593010029,1 US - R-Z/S.C.A.T. - Special Cybernetic Attack Team (USA).nes,,1990,x
-Natsume,NES,chojin-sentai-jetman.jpg,4994068800046,2 Japan - A-Z/Japan A-D/Choujin Sentai Jetman (Japan).nes,,1991,
+Natsume,NES,chojin-sentai-jetman.jpg,4994068800046,2 Japan/Japan A-D/Choujin Sentai Jetman (Japan).nes,,1991,
 Natsume,NES,shatterhand.jpg,32264900239,1 US - R-Z/Shatterhand (USA).nes,,1991,
 Natsume,NES,dragon-fighter.jpg,93295913018,1 US - A-F/Dragon Fighter (USA).nes,,1990,
 Natsume,SNES,pocky-rocky.png,719593030027,1 US - N-R/Pocky & Rocky (USA).sfc,Pocky \& Rocky,1992,x
@@ -192,7 +192,7 @@ Natsume,SNES,power-rangers-snes.jpg,45557088408,1 US - F-M/Mighty Morphin Power 
 Natsume,SNES,power-rangers-movie-snes.jpg,45557088415,1 US - F-M/Mighty Morphin Power Rangers - The Movie (USA).sfc,,1995,
 Natsume,GAMEBOY.COL,tony-hawk-2-gbc.jpg,47875122017,"1 Game Boy Color/1 GBC US - M-Z/Tony Hawk's Pro Skater 2 (USA, Europe).gbc",,2000,
 Natsume,GAMEBOY.COL,river-king.jpg,719593020059,1 Game Boy/1 GB US - H-Q/Legend of the River King GB (USA) (SGB Enhanced).gb,,1997,
-Natsume,NES,mitsume-ga-toru.jpg,138000000000,./2 Japan - A-Z/Japan K-O/Mitsume ga Tooru (Japan).nes,,1992,
+Natsume,NES,mitsume-ga-toru.jpg,138000000000,./2 Japan/Japan K-O/Mitsume ga Tooru (Japan).nes,,1992,
 Aicom,NEOGEO,pulstar.jpg,4964808100866,1 World A-Z/Pulstar (pulstar).neo,Pulstar,1995,x
 Aicom,NEOGEO,blazing-star.jpg,4964808101214,1 World A-Z/Blazing Star (blazstar).neo,Blazing Star (Yumekobo),1998,x
 Aicom,NES,vice-project-doom.jpg,039471905118,1 US - R-Z/Vice - Project Doom (USA).nes,,1991,
@@ -238,7 +238,7 @@ Other,TGFX16-CD,ginga.jpg,4988607250768,./GINGA FUKEI DENSETSU SAPPHIRE.cue,Ging
 Other,GENESIS,omegablast.png,108000000003,./omega_blast.bin,Omega Blast,2018,x
 Other,ARCADE,amazing-maze.png,109000000000,./Amazing Maze.mra,,1976,
 Other,PSX,pepsiman.jpg,4933516903069,Pepsiman (Japan).cue,,1999,
-Other,NES,recca.png,4988658924014,./2 Japan - A-Z/Japan P-S/Summer Carnival '92 - Recca (Japan).nes,,1992,x
+Other,NES,recca.png,4988658924014,./2 Japan/Japan P-S/Summer Carnival '92 - Recca (Japan).nes,,1992,x
 Other,NES,zombienation.png,8433291019,./1 US - R-Z/Zombie Nation (USA).nes,,1990,x
 Other,NES,jekyll.jpg,45557071004,./1 US - A-F/Dr. Jekyll and Mr. Hyde (USA).nes,,1988,
 Other,NES,bk.jpg,111000000003,./4 Homebrew/Battle Kid - Fortress of Peril.nes,,2010,
@@ -268,7 +268,7 @@ Other,GENESIS,overdrive2.png,129000000008,./4 Homebrew/Demos & Intros/TiTAN Over
 Other,NES,cocoron.png,137000000003,./4 Translations/Selections/Cocoron (J) T+Eng v1 Akujin.nes,,1991,
 Other,SATURN,guardian-force.jpg,4944076000341,./Guardian Force (Japan).cue,,1998,x
 Other,SATURN,shienryu.jpg,4516365000044,./Shienryu (J).cue,,1997,x
-Other,NES,over-horizon.jpg,144000000001,./2 Japan - A-Z/Japan K-O/Over Horizon (Japan).nes,,1991,x
+Other,NES,over-horizon.jpg,144000000001,./2 Japan/Japan K-O/Over Horizon (Japan).nes,,1991,x
 Raizing,ARCADE,battle-garegga.png,520000000003,./Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra,Battle Garegga (World),1996,x
 Raizing,ARCADE,battle-bakraid.png,530000000002,./Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999).mra,Battle Bakraid - Unlimited Version (USA),1999,x
 Raizing,ARCADE,batrider.png,540000000001,./Armed Police Batrider (USA) (Fri Feb 13 1998).mra,Armed Police Batrider,1998,x
@@ -304,7 +304,7 @@ Seibu Kaihatsu,PSX,raiden-project.jpg,711719440222,"./Raiden Project, The (USA).
 Seibu Kaihatsu,PSX,raiden-dx.jpg,4529651000451,./Raiden DX (Japan) (Major Wave).cue,,1997,x
 Squaresoft,PSX,einhander.jpg,711719424321,Einhander (USA).cue,,1997,x
 Sunsoft,NES,super-spy-hunter.jpg,20763110112,1 US - R-Z/Super Spy Hunter (USA).nes,,1991,x
-Sunsoft,NES,gimmick.jpg,4907940100615,2 Japan - A-Z/Japan E-J/Gimmick! (Japan).nes,,1992,
+Sunsoft,NES,gimmick.jpg,4907940100615,2 Japan/Japan E-J/Gimmick! (Japan).nes,,1992,
 Sunsoft,NES,gremlins2.jpg,20763110143,1 US - G-Q/Gremlins 2 - The New Batch (USA).nes,,1990,
 Sunsoft,NES,journey-to-silius.jpg,20763110136,1 US - G-Q/Journey to Silius (USA).nes,,1990,
 Sunsoft,NEOGEO,waku-waku-7.jpg,4964808101054,1 World A-Z/Waku Waku 7 (wakuwak7).neo,,1996,
