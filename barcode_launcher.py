@@ -72,15 +72,12 @@ def main():
     GAME_DB_FILENAME = sys.argv[1]
     RAWHID = sys.argv[2]
     print("SCANNER STANDING BY! rawhid"+RAWHID)
-    
-    # Load game database once
-    game_db = load_game_database(GAME_DB_FILENAME)
-    
+
     # Open the device file for reading barcode data
     with open("/dev/hidraw"+RAWHID, "rb") as f:
         line = ""
         byte = f.read(1)
-        
+
         while byte != b"":
             byte = f.read(1)
             if byte != b"\x00":
@@ -89,9 +86,12 @@ def main():
                     barcode = hex_to_string(line)
                     print(f"Scanned Barcode: {barcode}")
 
+                    # Load game database
+                    game_db = load_game_database(GAME_DB_FILENAME)
+
                     # Search the barcode in the loaded game database
                     found = game_db.get(barcode)
-                    
+
                     if found:
                         load_game(found, RAWHID)
                     else:
