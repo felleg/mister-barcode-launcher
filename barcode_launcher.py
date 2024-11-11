@@ -52,7 +52,7 @@ def hex_to_string(hex_string):
 
 def load_game(game, RAWHID):
     path = os.path.join(GAMES_PATH[game['CORE'].upper()], game['GAME_PATH'])
-    cmd = f"/media/fat/Scripts/mbc load_rom {game['CORE'].upper()} \"{path}\""
+    cmd = f"/media/fat/Scripts/barcode_launcher/mbc load_rom {game['CORE'].upper()} \"{path}\""
     print("[INFO", RAWHID, "]: Launch game via", cmd)
     #subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE).communicate()
     subprocess.run(cmd, shell=True, check=True)
