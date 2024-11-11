@@ -55,7 +55,7 @@ echo "
 
 if ! grep -q "$BARCODE_LAUNCHER_DIR/barcode_launcher.py" $USER_STARTUP_SCRIPT; then
   cat <<EOF >> $USER_STARTUP_SCRIPT
-[[ -e $BARCODE_LAUNCHER_DIR/barcode_launcher.py ]] && tmux new-session -d -s barcode_launcher 'for rawhid in {0..3}; do python3 $BARCODE_LAUNCHER_DIR/barcode_launcher.py $BARCODE_LAUNCHER_DIR/barcode_database.csv \$rawhid & done; wait'
+[[ -e $BARCODE_LAUNCHER_DIR/barcode_launcher.py ]] && tmux new-session -d -s barcode_launcher 'cd /root && for rawhid in {0..3}; do python3 $BARCODE_LAUNCHER_DIR/barcode_launcher.py $BARCODE_LAUNCHER_DIR/barcode_database.csv \$rawhid & done; wait'
 EOF
 fi
 
