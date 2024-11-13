@@ -3,8 +3,8 @@
 Run this command to install barcode-launcher on your MiSTer:
 
 ```
-curl -sSL -k https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/install_barcode_launcher | sh
+curl -sSLk https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs/heads/main/install_barcode_launcher | sh
 
 # If it is more convenient to you, this shorter command is equivalent:
-curl -sSL -k https://felx.cc/install-barcode | sh
+curl -sSLk https://felx.cc/install-barcode | sh
 ```
