@@ -8,3 +8,4 @@ curl -sSLk https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs
 # If it is more convenient to you, this shorter command is equivalent:
 curl -sSLk https://felx.cc/install-barcode | sh
 ```
+Currently, this requires that your barcode scanner is plugged in before you power on the MiSTer. 
