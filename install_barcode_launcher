@@ -70,6 +70,9 @@ sed -i "/barcode_launcher/d" $USER_STARTUP_SCRIPT
 
 # Remove $BARCODE_LAUNCHER_DIR
 rm -r $BARCODE_LAUNCHER_DIR
+rm $UPDATE_DATABASE_SCRIPT
+rm $UPDATE_LAUNCHER_SCRIPT
+rm $UNINSTALL_SCRIPT
 EOF
 
 echo "
@@ -81,7 +84,7 @@ echo "
 # For your convenience, you will find maintained packs on archive.org.
 # Google is your friend.
 #
-# Barcodes are available at https://felx.cc/barcodes
+# Sample barcodes are available at https://felx.cc/barcodes
 #
 # Enjoy barcode_launcher :)
 ################################################################
