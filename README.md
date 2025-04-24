@@ -9,3 +9,7 @@ curl -sSLk https://raw.githubusercontent.com/felleg/mister-barcode-launcher/refs
 curl -sSLk https://felx.cc/install-barcode | sh
 ```
 Currently, this requires that your barcode scanner is plugged in before you power on the MiSTer. 
+
+# How to update the online catalog
+
+See [catalog/index.md](catalog specific instructions here).
